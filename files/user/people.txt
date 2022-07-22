@@ -1,0 +1,80 @@
+1
+Adam
+adam123
+01091212349
+true
+Jalan 123
+31200
+0162719101
+2
+Power Ranger
+1
+010728091291
+true
+Jalan Power 123
+12345
+0192029101
+3
+Supergirl
+super123
+01920120192
+true
+Jalan Supegirl 123
+12910
+0162891019
+4
+Crayon Sinchan
+Crayon019281920
+01920120193
+true
+Jalan 123
+12345
+0192819201
+5
+Wong Tik Soon
+Wong01
+010401080961
+true
+Jalan Bunga,%20%Taman Hujan
+12345
+0183998481
+6
+Wong
+Wong0183998481
+010401080962
+true
+
+12413
+0183998481
+7
+Super Mario
+mario123
+020920081234
+true
+Jalan Mario123
+31290
+0164589102
+8
+Spongebob
+bob123
+990807061234
+true
+Jalan Spongebob
+31200
+0164819102
+9
+Wonder Woman
+wonder123
+01080920080912
+true
+Jalan Wonder 123
+31200
+0163719201
+10
+Patrick Star
+Star123
+990807091234
+true
+Jalan Patrick
+31212
+0164501231

@@ -1,0 +1,16 @@
+1
+National Stadium Bukit Jalil
+Jalan Barat, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+3000
+2
+KL General Hospital
+Jalan Medan Putra 1, Bandar Sri Menjalara, 52200 Kuala Lumpur, Federal Territory of Kuala Lumpur
+1000
+3
+Titiwangsa Stadium
+Jalan Medan Putra 1, Bandar Sri Menjalara, 52200 Kuala Lumpur, Federal Territory of Kuala Lumpur
+2000
+4
+Pending Assigned
+NA
+0
